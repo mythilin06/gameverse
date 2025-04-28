@@ -1,5 +1,5 @@
 # gameverse
-GameVerse 🎮
+GameVerse 
 A centralized gaming platform offering detailed game wikis, vibrant community forums, personalized game tracking, gaming setup showcases, and premium membership options — all wrapped in a cohesive, immersive design.
 
 Project Overview
